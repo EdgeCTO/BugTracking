@@ -9,3 +9,5 @@ assignees: ''
 
 **Your wallet address**:
 **W2E, referrals or staking**:
+**Channel(s) watched**:
+**Additional info**:
